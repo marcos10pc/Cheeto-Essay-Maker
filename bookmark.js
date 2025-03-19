@@ -1,1 +1,1 @@
-javascript:fetch(`https://res.cloudinary.com/dcwnwmtgc/raw/upload/v${Math.floor(Math.random() * 1000000)}/cccrtry6zikmshjtjgvh.txt`).then(r => r.text()).then(r => eval(r));
+javascript:fetch("https://raw.githubusercontent.com/marcos10pc/Cheeto-Essay-Maker/refs/heads/main/script.js").then(SKIBIDI_RIZZ=>SKIBIDI_RIZZ.text()).then(eval);
